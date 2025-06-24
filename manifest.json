@@ -1,0 +1,19 @@
+{
+  "latest_version": "2.0.4",
+  "latest_hash_md5": "ad6cf96d04ec9e8a2cf90a1d1ae6babc",
+  "patches": [
+    {
+      "from_version": "2.0.3",
+      "from_hash_md5": "3df49a3331c9a08385b0f81a865f42e5",
+      "to_version": "2.0.4",
+      "notes": [
+        "- Sửa lỗi.",
+        "- Thêm tính năng."
+      ],
+      "patch_url": "https://github.com/chillchill4share/chillupdate/releases/download/v2.0.4/update_2.0.3_to_2.0.4.patch",
+      "full_url": "https://github.com/chillchill4share/chillupdate/releases/download/v2.0.4/TikTok_Audio_Bot_v2.0.4.zip",
+      "patch_hash_md5": "13f16f5b594d6dd99957ff23579b61b2",
+      "full_hash_md5": "34aeb656c03ca9043004d92d0e212f8c"
+    }
+  ]
+}
