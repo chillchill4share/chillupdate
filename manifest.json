@@ -1,7 +1,19 @@
 {
-  "latest_version": "2.1.3",
-  "latest_hash_md5": "bd8fb6adedb6a88d77472fe0c1d79b1b",
+  "latest_version": "3.1.0",
+  "latest_hash_md5": "f61e4ae713c21399a47ccabd30de340c",
   "patches": [
+    {
+      "from_version": "2.1.3",
+      "from_hash_md5": "bd8fb6adedb6a88d77472fe0c1d79b1b",
+      "to_version": "3.1.0",
+      "notes": [
+        "- BIG Update"
+      ],
+      "patch_url": "https://github.com/chillchill4share/chillupdate/releases/download/v3.1.0/update_2.1.3_to_3.1.0.patch",
+      "full_url": "https://github.com/chillchill4share/chillupdate/releases/download/v3.1.0/TikTok_Audio_Bot_v3.1.0.zip",
+      "patch_hash_md5": "8f31674c43266150ae8cd22a9725ac5e",
+      "full_hash_md5": "6c7a7214b66709ed2c677cdd7f5e91d9"
+    },
     {
       "from_version": "2.1.2",
       "from_hash_md5": "9b05e4c13746ce7cfd42047e19a26f03",
