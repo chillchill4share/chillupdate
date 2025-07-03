@@ -1,7 +1,20 @@
 {
-  "latest_version": "4.1.0",
-  "latest_hash_md5": "49c3de7d1d0c51c6bd3e18dcf4300b49",
+  "latest_version": "4.1.1",
+  "latest_hash_md5": "bfeb2d5a8ce09c55cc59554b59111556",
   "patches": [
+    {
+      "from_version": "4.1.0",
+      "from_hash_md5": "49c3de7d1d0c51c6bd3e18dcf4300b49",
+      "to_version": "4.1.1",
+      "notes": [
+        "- Fix lỗi cách sử lý CSDL",
+        "- Fix địa danh & some bug"
+      ],
+      "patch_url": "https://github.com/chillchill4share/chillupdate/releases/download/v4.1.1/update_4.1.0_to_4.1.1.patch",
+      "full_url": "https://github.com/chillchill4share/chillupdate/releases/download/v4.1.1/TikTok_Audio_Bot_v4.1.1.zip",
+      "patch_hash_md5": "63735819143426cdbdedd2c510eaf4e0",
+      "full_hash_md5": "d874c08388b62cafaf611ed6090bd3a7"
+    },
     {
       "from_version": "3.1.0",
       "from_hash_md5": "f61e4ae713c21399a47ccabd30de340c",
